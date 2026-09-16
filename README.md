@@ -244,3 +244,40 @@ Snapshot metrics:
 - 67 official MCP, 29 third-party MCP, 4 not found in the full dataset
 
 The HTML page is self-contained and includes search/filter controls plus expandable per-app evidence and verification details.
+
+## What the Agent Does
+
+The pipeline automates research across 100 applications.
+
+1. Research agent
+   - Searches official documentation and other relevant sources
+   - Extracts authentication methods
+   - Determines credential/self-serve access
+   - Checks API pricing and access model
+   - Classifies API type and breadth
+   - Investigates MCP availability
+   - Assesses practical buildability
+   - Stores field-level evidence URLs
+
+2. Verification agent
+   - Performs a separate research pass on a reproducible sample
+   - Compares independent evidence against the original research
+   - Corrects supported errors
+   - Marks unsupported claims as UNVERIFIED
+   - Applies deterministic MCP provenance and schema guardrails
+
+3. Analyzer
+   - Aggregates the final 100-app dataset
+   - Calculates verification/correction statistics
+   - Generates the HTML case study
+
+## Where Human Review Was Needed
+
+Human involvement was used for:
+- defining the research taxonomy and output schema
+- designing verification and provenance rules
+- reviewing ambiguous evidence and edge cases
+- independently checking a sample of results
+- deciding how unresolved claims should be represented
+
+The pipeline does not force a value when evidence is insufficient; it preserves the uncertainty as `UNVERIFIED`.
