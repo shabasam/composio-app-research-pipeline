@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Local/generated runtime files
+data/research_raw.json
+data/verification.json
+data/verification_log.json
+data/verified_results.json
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/

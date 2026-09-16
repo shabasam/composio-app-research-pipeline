@@ -1,0 +1,27 @@
+[
+  {
+    "app": "HubSpot",
+    "category": "CRM",
+    "website": "https://hubspot.com"
+  },
+  {
+    "app": "Salesforce",
+    "category": "CRM",
+    "website": "https://salesforce.com"
+  },
+  {
+    "app": "Slack",
+    "category": "Communications",
+    "website": "https://slack.com"
+  },
+  {
+    "app": "Shopify",
+    "category": "Ecommerce",
+    "website": "https://shopify.com"
+  },
+  {
+    "app": "Stripe",
+    "category": "Finance",
+    "website": "https://stripe.com"
+  }
+]

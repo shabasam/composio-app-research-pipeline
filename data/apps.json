@@ -1,0 +1,502 @@
+[
+  {
+    "app": "Salesforce",
+    "category": "CRM",
+    "website": "https://salesforce.com"
+  },
+  {
+    "app": "HubSpot",
+    "category": "CRM",
+    "website": "https://hubspot.com"
+  },
+  {
+    "app": "Pipedrive",
+    "category": "CRM",
+    "website": "https://pipedrive.com"
+  },
+  {
+    "app": "Attio",
+    "category": "CRM",
+    "website": "https://attio.com"
+  },
+  {
+    "app": "Twenty",
+    "category": "CRM",
+    "website": "https://twenty.com"
+  },
+  {
+    "app": "Podio",
+    "category": "CRM",
+    "website": "https://podio.com"
+  },
+  {
+    "app": "Zoho CRM",
+    "category": "CRM",
+    "website": "https://zoho.com"
+  },
+  {
+    "app": "Close",
+    "category": "CRM",
+    "website": "https://close.com"
+  },
+  {
+    "app": "Copper",
+    "category": "CRM",
+    "website": "https://copper.com"
+  },
+  {
+    "app": "DealCloud",
+    "category": "CRM",
+    "website": "https://dealcloud.com"
+  },
+  {
+    "app": "Zendesk",
+    "category": "Support",
+    "website": "https://zendesk.com"
+  },
+  {
+    "app": "Intercom",
+    "category": "Support",
+    "website": "https://intercom.com"
+  },
+  {
+    "app": "Freshdesk",
+    "category": "Support",
+    "website": "https://freshworks.com"
+  },
+  {
+    "app": "Front",
+    "category": "Support",
+    "website": "https://front.com"
+  },
+  {
+    "app": "Pylon",
+    "category": "Support",
+    "website": "https://pylon.com"
+  },
+  {
+    "app": "LiveAgent",
+    "category": "Support",
+    "website": "https://liveagent.com"
+  },
+  {
+    "app": "Plain",
+    "category": "Support",
+    "website": "https://plain.com"
+  },
+  {
+    "app": "Help Scout",
+    "category": "Support",
+    "website": "https://helpscout.com"
+  },
+  {
+    "app": "Gorgias",
+    "category": "Support",
+    "website": "https://gorgias.com"
+  },
+  {
+    "app": "Gladly",
+    "category": "Support",
+    "website": "https://gladly.com"
+  },
+  {
+    "app": "Slack",
+    "category": "Communications",
+    "website": "https://slack.com"
+  },
+  {
+    "app": "Twilio",
+    "category": "Communications",
+    "website": "https://twilio.com"
+  },
+  {
+    "app": "Zoho Cliq",
+    "category": "Communications",
+    "website": "https://zoho.com"
+  },
+  {
+    "app": "Lark",
+    "category": "Communications",
+    "website": "https://larksuite.com"
+  },
+  {
+    "app": "Pumble",
+    "category": "Communications",
+    "website": "https://pumble.com"
+  },
+  {
+    "app": "Discord",
+    "category": "Communications",
+    "website": "https://discord.com"
+  },
+  {
+    "app": "Telegram",
+    "category": "Communications",
+    "website": "https://telegram.org"
+  },
+  {
+    "app": "WhatsApp Business",
+    "category": "Communications",
+    "website": "https://whatsapp.com"
+  },
+  {
+    "app": "Aircall",
+    "category": "Communications",
+    "website": "https://aircall.io"
+  },
+  {
+    "app": "Vonage",
+    "category": "Communications",
+    "website": "https://vonage.com"
+  },
+  {
+    "app": "Google Ads",
+    "category": "Marketing",
+    "website": "https://ads.google.com"
+  },
+  {
+    "app": "Meta Ads",
+    "category": "Marketing",
+    "website": "https://meta.com"
+  },
+  {
+    "app": "LinkedIn Ads",
+    "category": "Marketing",
+    "website": "https://linkedin.com"
+  },
+  {
+    "app": "GoHighLevel",
+    "category": "Marketing",
+    "website": "https://gohighlevel.com"
+  },
+  {
+    "app": "Mailchimp",
+    "category": "Marketing",
+    "website": "https://mailchimp.com"
+  },
+  {
+    "app": "Klaviyo",
+    "category": "Marketing",
+    "website": "https://klaviyo.com"
+  },
+  {
+    "app": "systeme.io",
+    "category": "Marketing",
+    "website": "https://systeme.io"
+  },
+  {
+    "app": "Pinterest",
+    "category": "Marketing",
+    "website": "https://pinterest.com"
+  },
+  {
+    "app": "Threads",
+    "category": "Marketing",
+    "website": "https://threads.net"
+  },
+  {
+    "app": "SendGrid",
+    "category": "Marketing",
+    "website": "https://sendgrid.com"
+  },
+  {
+    "app": "Shopify",
+    "category": "Ecommerce",
+    "website": "https://shopify.com"
+  },
+  {
+    "app": "WooCommerce",
+    "category": "Ecommerce",
+    "website": "https://woocommerce.com"
+  },
+  {
+    "app": "BigCommerce",
+    "category": "Ecommerce",
+    "website": "https://bigcommerce.com"
+  },
+  {
+    "app": "Salesforce Commerce Cloud",
+    "category": "Ecommerce",
+    "website": "https://salesforce.com"
+  },
+  {
+    "app": "Magento",
+    "category": "Ecommerce",
+    "website": "https://magento.com"
+  },
+  {
+    "app": "Squarespace",
+    "category": "Ecommerce",
+    "website": "https://squarespace.com"
+  },
+  {
+    "app": "Ecwid",
+    "category": "Ecommerce",
+    "website": "https://ecwid.com"
+  },
+  {
+    "app": "Gumroad",
+    "category": "Ecommerce",
+    "website": "https://gumroad.com"
+  },
+  {
+    "app": "Amazon SP-API",
+    "category": "Ecommerce",
+    "website": "https://amazon.com"
+  },
+  {
+    "app": "fanbasis",
+    "category": "Ecommerce",
+    "website": "https://fanbasis.com"
+  },
+  {
+    "app": "DataForSEO",
+    "category": "Data/SEO/Scraping",
+    "website": "https://dataforseo.com"
+  },
+  {
+    "app": "SE Ranking",
+    "category": "Data/SEO/Scraping",
+    "website": "https://seranking.com"
+  },
+  {
+    "app": "Ahrefs",
+    "category": "Data/SEO/Scraping",
+    "website": "https://ahrefs.com"
+  },
+  {
+    "app": "MrScraper",
+    "category": "Data/SEO/Scraping",
+    "website": "https://mrscraper.com"
+  },
+  {
+    "app": "Apify",
+    "category": "Data/SEO/Scraping",
+    "website": "https://apify.com"
+  },
+  {
+    "app": "Firecrawl",
+    "category": "Data/SEO/Scraping",
+    "website": "https://firecrawl.dev"
+  },
+  {
+    "app": "Bright Data",
+    "category": "Data/SEO/Scraping",
+    "website": "https://brightdata.com"
+  },
+  {
+    "app": "Sherlock",
+    "category": "Data/SEO/Scraping",
+    "website": "https://github.com/sherlock-project/sherlock"
+  },
+  {
+    "app": "Waterfall.io",
+    "category": "Data/SEO/Scraping",
+    "website": "https://waterfall.io"
+  },
+  {
+    "app": "Clay",
+    "category": "Data/SEO/Scraping",
+    "website": "https://clay.com"
+  },
+  {
+    "app": "GitHub",
+    "category": "Developer/Infra/Data",
+    "website": "https://github.com"
+  },
+  {
+    "app": "Vercel",
+    "category": "Developer/Infra/Data",
+    "website": "https://vercel.com"
+  },
+  {
+    "app": "Netlify",
+    "category": "Developer/Infra/Data",
+    "website": "https://netlify.com"
+  },
+  {
+    "app": "Cloudflare",
+    "category": "Developer/Infra/Data",
+    "website": "https://cloudflare.com"
+  },
+  {
+    "app": "Supabase",
+    "category": "Developer/Infra/Data",
+    "website": "https://supabase.com"
+  },
+  {
+    "app": "Neo4j",
+    "category": "Developer/Infra/Data",
+    "website": "https://neo4j.com"
+  },
+  {
+    "app": "Snowflake",
+    "category": "Developer/Infra/Data",
+    "website": "https://snowflake.com"
+  },
+  {
+    "app": "MongoDB Atlas",
+    "category": "Developer/Infra/Data",
+    "website": "https://mongodb.com"
+  },
+  {
+    "app": "Datadog",
+    "category": "Developer/Infra/Data",
+    "website": "https://datadoghq.com"
+  },
+  {
+    "app": "Sentry",
+    "category": "Developer/Infra/Data",
+    "website": "https://sentry.io"
+  },
+  {
+    "app": "Notion",
+    "category": "Productivity/PM",
+    "website": "https://notion.so"
+  },
+  {
+    "app": "Airtable",
+    "category": "Productivity/PM",
+    "website": "https://airtable.com"
+  },
+  {
+    "app": "Linear",
+    "category": "Productivity/PM",
+    "website": "https://linear.app"
+  },
+  {
+    "app": "Jira",
+    "category": "Productivity/PM",
+    "website": "https://atlassian.com"
+  },
+  {
+    "app": "Asana",
+    "category": "Productivity/PM",
+    "website": "https://asana.com"
+  },
+  {
+    "app": "Monday.com",
+    "category": "Productivity/PM",
+    "website": "https://monday.com"
+  },
+  {
+    "app": "ClickUp",
+    "category": "Productivity/PM",
+    "website": "https://clickup.com"
+  },
+  {
+    "app": "Coda",
+    "category": "Productivity/PM",
+    "website": "https://coda.io"
+  },
+  {
+    "app": "Smartsheet",
+    "category": "Productivity/PM",
+    "website": "https://smartsheet.com"
+  },
+  {
+    "app": "Harvest",
+    "category": "Productivity/PM",
+    "website": "https://getharvest.com"
+  },
+  {
+    "app": "Stripe",
+    "category": "Finance",
+    "website": "https://stripe.com"
+  },
+  {
+    "app": "Plaid",
+    "category": "Finance",
+    "website": "https://plaid.com"
+  },
+  {
+    "app": "Binance",
+    "category": "Finance",
+    "website": "https://binance.com"
+  },
+  {
+    "app": "Paygent Connect",
+    "category": "Finance",
+    "website": null
+  },
+  {
+    "app": "iPayX",
+    "category": "Finance",
+    "website": null
+  },
+  {
+    "app": "QuickBooks",
+    "category": "Finance",
+    "website": "https://intuit.com"
+  },
+  {
+    "app": "Xero",
+    "category": "Finance",
+    "website": "https://xero.com"
+  },
+  {
+    "app": "Brex",
+    "category": "Finance",
+    "website": "https://brex.com"
+  },
+  {
+    "app": "Ramp",
+    "category": "Finance",
+    "website": "https://ramp.com"
+  },
+  {
+    "app": "PitchBook",
+    "category": "Finance",
+    "website": "https://pitchbook.com"
+  },
+  {
+    "app": "NotebookLM",
+    "category": "AI/Research/Media",
+    "website": "https://notebooklm.google.com"
+  },
+  {
+    "app": "Otter AI",
+    "category": "AI/Research/Media",
+    "website": "https://otter.ai"
+  },
+  {
+    "app": "Fathom",
+    "category": "AI/Research/Media",
+    "website": "https://fathom.video"
+  },
+  {
+    "app": "Consensus",
+    "category": "AI/Research/Media",
+    "website": "https://consensus.app"
+  },
+  {
+    "app": "Reducto",
+    "category": "AI/Research/Media",
+    "website": "https://reducto.ai"
+  },
+  {
+    "app": "Devin",
+    "category": "AI/Research/Media",
+    "website": "https://devin.ai"
+  },
+  {
+    "app": "higgsfield",
+    "category": "AI/Research/Media",
+    "website": "https://higgsfield.ai"
+  },
+  {
+    "app": "Mermaid CLI",
+    "category": "AI/Research/Media",
+    "website": "https://mermaid.js.org"
+  },
+  {
+    "app": "YouTube Transcript",
+    "category": "AI/Research/Media",
+    "website": "https://youtube.com"
+  },
+  {
+    "app": "Grain",
+    "category": "AI/Research/Media",
+    "website": "https://grain.com"
+  }
+]
